@@ -5,6 +5,6 @@ Repository for the Software Engineering (IT301) Project
 
 - [x] Problem Statement
 - [x] Use Case Schema
-- [ ] Use Case Diagram
-- [ ] Use Case Flow
+- [x] Use Case Diagram
+- [x] Use Case Flow
 - [ ] Final SRS
