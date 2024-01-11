@@ -11,9 +11,10 @@ User must have valid credentials.
 ## Postcondition: 
 User gains access to the system.
 ## Flow:
-User enters username and password.
-System validates credentials.
-If valid, user is logged in; if not, an error message is displayed.
+1. User enters username and password.
+2. System validates credentials.
+3. If valid, user is logged in; if not, an error message is displayed.
+
 
 # Use Case: Change Password
 ## **Description**: 
