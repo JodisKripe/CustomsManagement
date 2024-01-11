@@ -1,6 +1,5 @@
 # Problem Statement  
 
-<hr>
 A customs management system is currently reliant on manual processes for handling customs procedures, documentation, and cargo details. To enhance efficiency and accuracy, the proposed system aims to automate various aspects. The management steps are carried out manually via following methods.
 
 ### User Authentication:
